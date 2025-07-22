@@ -37,7 +37,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Contact
 For any questions or feedback, please contact:
 - **GitHub** - [Sricharangardas](https://github.com/Sricharangardas)
-- **GitHub** - [LzyProgrammr](https://github.com/LzyProgrammr)
+- **GitHub** - [LzyProgrammr](https://github.com/chamleyash)
 - **GitHub** - [Srilochan7](https://github.com/Srilochan7)
 
 
